@@ -1,17 +1,14 @@
-## Olá! 👋 Eu sou Gabriel Macedo
+## Olá! 👋 Eu sou <strong>Gabriel Macedo!</strong>
+<h3> Sou apaixonado e curioso por programação e tecnologia!</h3>
 
-### 📊 Estatísticas
-<div style="display: flex; flex-direction: row">
+- 💻 Explorando novas tecnologias e procurando se apefeiçoar um pouco de cada vez.
+- 💼 Amo a área de **Front-End** e **Design**.
 
-<a href="https://github.com/gabriel491" title="ilustração do mapeamento de linguagens">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel491&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-</a>
-</div>
   
-  ## 🚀  Estudando atualmente:
-<div style="display: inline_block">
+## 🚀  Estudando atualmente:
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts" />
-</div>
+</p>
 
 ## 🛠️Ferramentas de desenvolvimento
 
@@ -21,15 +18,25 @@
   </a>
 </p>
 
-<br>
-  
+  ### 📊 Estatísticas
+<div style="display: flex; flex-direction: row">
+
+<a href="https://github.com/gabriel491" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel491&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+</div>
   
   ## 📱 Você pode me encontrar:
   
-<div style="display: inline_block">
+<p style="align: left">
   
-  <a href="https://api.whatsapp.com/send?phone=5584999550658&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.instagram.com/gabriel3m3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href="https://www.linkedin.com/in/gabriel-macedo123/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://api.whatsapp.com/send?phone=5584999550658&text=Ol%C3%A1!">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
-</div>
+  <a href="https://www.instagram.com/gabriel3m3/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+  
+  <a href="https://www.linkedin.com/in/gabriel-macedo123/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</p>
