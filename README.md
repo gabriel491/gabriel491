@@ -21,6 +21,9 @@
   ### 📊 Estatísticas
 <div style="display: flex; flex-direction: row">
 
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=gabriel491&show_icons=true&theme=radical)
+
+
 <a href="https://github.com/gabriel491" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel491&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
