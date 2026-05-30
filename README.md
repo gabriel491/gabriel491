@@ -27,12 +27,27 @@
 </p>
 
 ### 📊 Estatísticas
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel491&show_icons=true&theme=radical" alt="Suas Estatísticas no GitHub" />
-  <a href="https://github.com/gabriel491" title="ilustração do mapeamento de linguagens">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel491&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
-  </a>
+<div>
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel491&theme=dracula"
+  />
+
+<img 
+      align="left"
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gabriel491&theme=dracula&hide_progress=false&hide_border=true" 
+  />
+
+</p>
 </div>
+
+<br clear="all" />
 
 ## 📱 Você pode me encontrar:
 
