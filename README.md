@@ -34,7 +34,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel491&theme=dracula"
+     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel491&theme=dracula" 
   />
 
 <img 
